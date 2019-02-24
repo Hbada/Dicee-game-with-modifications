@@ -28,6 +28,10 @@ p {
   font-family: 'Courgette', cursive;
 }
 
+.subheading {
+  margin: 0 auto; // centre the subheading under h1
+}
+
 img {
   width: 80%;
 }
